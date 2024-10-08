@@ -19,6 +19,11 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 
+### Generative AI Learning:
+![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=plastic&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%230072b1.svg?style=plastic&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%23ff8000.svg?style=plastic&logo=langgraph&logoColor=white)
+
 ### Frontend:
 ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
