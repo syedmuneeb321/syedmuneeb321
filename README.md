@@ -1,4 +1,4 @@
-# Hi, I'm Syed Muneeb Abbas! 👋
+# <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=2863C9&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+Muneeb!"/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muneeb-abbas-753042290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
