@@ -7,10 +7,10 @@
 
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=plastic&logo=python&logoColor=white)
-<--[JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)-->
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+<!--[JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)-->
+<!--![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)-->
+<!--![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)-->
+<!--![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)-->
 
 ### Backend:
 ![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=plastic&logo=fastapi&logoColor=white)
@@ -24,14 +24,14 @@
 ![LangChain](https://img.shields.io/badge/LangChain-%230072b1.svg?style=plastic&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-%23ff8000.svg?style=plastic&logo=langgraph&logoColor=white)
 
-### Frontend:
+<!--### Frontend:
 ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=plastic&logo=radix-ui&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white)-->
 
 ### Tools and Utilities:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
